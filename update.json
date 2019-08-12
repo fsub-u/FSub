@@ -1,7 +1,7 @@
 {   "title": "App Update!",   
 "message": "This is new Feature Update",  
 "download": "false",   
-"playstore": "https://play.google.com/store/apps/details?id=com.azm.fsub1",   
+"playstore": "com.azm.fsub1",   
 "uninstall":false,   
 "what": {   
 "model": [],   
