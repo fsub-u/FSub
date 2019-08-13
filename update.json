@@ -4,7 +4,7 @@
 "playstore": "com.azm.fsub1",   
 "uninstall":false,   
 "what": {   
-"model": [mi],   
+"model": [],   
 "version": [],  
 "all": true   },  
 "versionName": "1.0",  
