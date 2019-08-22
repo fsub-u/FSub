@@ -1,6 +1,6 @@
 {   "title": "App Update!",   
 "message": "Errorတစ္ခ်ဳိ႔ကုိ ျပင္ထားေပးပါတယ္၊ ",  
- "download": "true",  
+"download": "https://www.mediafire.com/file/rbox8mxdvy7blf3/FSub.apk/file",   
 "playstore": "com.azm.fsub1",   
 "uninstall":false,   
 "what": {   
@@ -8,6 +8,6 @@
 "version": [],  
 "all": true   },  
 "versionName": "1.4",  
-"versionCode": "7",   
+"versionCode": "6",   
 "force": true 
 }
