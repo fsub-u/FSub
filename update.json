@@ -1,7 +1,8 @@
 {   "title": "App Update!",   
-"message": "Video errorကုိျပင္ထားေပးပါတယ္ ",  
+"message": "Video errorကုိျပင္ထားေပးပါတယ္၊
+ (အသုံးျပဳပုံမွာ Downloadကုိႏွိပ္ပါ၊ ခနေလးေစာင့္ၿပီး Installကုိႏွိပ္ေပးပါ။(Fsubႏွစ္ခုျဖစ္ေနပါက ပထမFSubကုိျဖတ္ပစ္လုိက္ပါ)အဆင္ေျပစြာအသုံးျပဳလုိ႔ရပါၿပီ၊) ",  
 "download": "https://docs.google.com/uc?export=download&id=11EckULEQ3KSHxt0wT3buFOrSNFx1eTMy",   
- "": "com.azm.fsub2",  
+ "playstore": "com.azm.fsub2",  
 "uninstall":false,   
 "what": {   
 "model": [],   
