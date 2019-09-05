@@ -1,13 +1,13 @@
 {   "title": "App Update!",   
-"message": "Errorတစ္ခ်ဳိ႔ကုိ ျပင္ထားေပးပါတယ္၊Playstoreမွ ပဲေဒါင္းယူေပးပါ၊ Playstoreအဆင္မရွိပါက Direct linkမွလဲ ေဒါင္းယူႏုိင္ပါတယ္ ",  
-"download": "https://docs.google.com/uc?export=download&id=1RnkZ9I2eR0EVzlK0rY-VpfJZSCLPUmUY",   
-"playstore": "com.azm.fsub1",   
+"message": "Video errorကုိျပင္ထားေပးပါတယ္ ",  
+"download": "https://docs.google.com/uc?export=download&id=11EckULEQ3KSHxt0wT3buFOrSNFx1eTMy",   
+ 
 "uninstall":false,   
 "what": {   
 "model": [],   
 "version": [],  
 "all": true   },  
-"versionName": "1.4",  
-"versionCode": "7",   
+"versionName": "1.5",  
+"versionCode": "8",   
 "force": true 
 }
