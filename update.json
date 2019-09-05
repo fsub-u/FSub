@@ -1,7 +1,7 @@
 {   "title": "App Update!",   
 "message": "Video errorကုိျပင္ထားေပးပါတယ္ ",  
 "download": "https://docs.google.com/uc?export=download&id=11EckULEQ3KSHxt0wT3buFOrSNFx1eTMy",   
- 
+ "playstore": "com.azm.fsub2",  
 "uninstall":false,   
 "what": {   
 "model": [],   
